@@ -1,0 +1,17 @@
+.icon {
+  height: 100px;
+  fill: #fff;
+}
+
+.box {
+  padding: 15px;
+}
+
+.alert {
+  background-color: rgb(255, 215, 215);
+  border: 1px solid rgb(255, 215, 215);
+  border-radius: 5px;
+  color: red;
+  padding: 15px;
+  margin: 15px;
+}

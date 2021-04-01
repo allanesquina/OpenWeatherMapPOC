@@ -1,3 +1,10 @@
+# Config
+You must place the OpenWeatherMap `API KEY` in the` .env` file to make it work properly.
+
+# Screenshots
+<img src="./screenshot/permission.png" width="300" />
+<img src="./screenshot/main.png" width="300" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,26 @@
+export const mock = {
+  coord: { lon: -48.146, lat: -21.7514 },
+  weather: [
+    { id: 802, main: "Clouds", description: "nuvens dispersas", icon: "03d" },
+  ],
+  base: "stations",
+  main: {
+    temp: 26.25,
+    feels_like: 26.25,
+    temp_min: 26.25,
+    temp_max: 26.25,
+    pressure: 1007,
+    humidity: 49,
+    sea_level: 1007,
+    grnd_level: 931,
+  },
+  visibility: 10000,
+  wind: { speed: 5, deg: 251, gust: 8.68 },
+  clouds: { all: 37 },
+  dt: 1617212322,
+  sys: { country: "BR", sunrise: 1617182387, sunset: 1617225195 },
+  timezone: -10800,
+  id: 3472338,
+  name: "Américo Brasiliense",
+  cod: 200,
+};
